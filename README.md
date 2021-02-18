@@ -1,3 +1,12 @@
-# Python Practice Repo 
+# Python Practice  Repository
 
-### This is a repo for python simple practice program 
+This repository contains intermediate python programs for practice especially in data structures, algorithms and optimizing the time complexity.
+
+All the packages are included in the requirements.txt file and you can install using the following command.
+
+
+~~~python 
+
+pip install  -r requirements.txt
+
+~~~
